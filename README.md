@@ -35,7 +35,6 @@ The assistant uses Speech Recognition for voice input and Text-to-Speech technol
 voice-assistant/
 │
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -56,7 +55,7 @@ cd voice-assistant
 3. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install 
 ```
 
 ## Usage
